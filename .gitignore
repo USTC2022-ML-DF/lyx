@@ -1,5 +1,6 @@
 /bert_vulnerability/data/
 /bert_vulnerability/save/
+/bert_vulnerability/submissions/
 __pycache__/
 /save
 *.out
