@@ -1,3 +1,5 @@
 /bert_vulnerability/data/
 /bert_vulnerability/save/
 /bert_vulnerability/code/__pycache__/
+*.out
+*.sh
