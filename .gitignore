@@ -2,6 +2,7 @@
 /bert_vulnerability/save/
 /bert_vulnerability/submissions/
 __pycache__/
+/bert_vulnerability/log/
 /save
 *.out
 *.sh
